@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b847d909b83bb348b5f98abd2ef9b1f, type: 3}
+  m_Name: Capsule
+  m_EditorClassIdentifier: 
+  itemName: Capsule
+  displayName: 0
+  message:
+  - triggersEvent: 0
+    sentences:
+    - That sure is a capsule on the table.
+    - Maybe you should steal it!
+    - 'That''d be funny. '
+    hasResponse: 0
+    responses: []
